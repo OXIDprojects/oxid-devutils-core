@@ -1,5 +1,5 @@
 {
-  "name": "oxcom/devutils-core",
+  "name": "oxid-community/devutils-core",
   "description": "Analysis module for finding problematical shop data.",
   "type": "oxideshop-module",
   "keywords": [
@@ -9,22 +9,18 @@
     "dev",
     "debug"
   ],
-  "homepage": "https://github.com/OXIDprojects/devutils-oxhackathon19",
+  "homepage": "https://github.com/OXIDprojects/oxid-devutils-core",
   "license": [
     "GNU"
   ],
-  "version": "1.0.0",
   "extra": {
     "oxideshop": {
-      "blacklist-filter": [
-        "docs/**/*.*"
-      ],
-      "target-directory": "oxcom/devutils-core"
+      "target-directory": "oxid-community/devutils-core"
     }
   },
   "autoload": {
     "psr-4": {
-      "OxidCommunity\\DevutilsCore\\": "../../../source/modules/oxcom/devutils-core/"
+      "OxidCommunity\\DevutilsCore\\": "../../../source/modules/oxid-community/devutils-core/"
     }
   }
 }
