@@ -5,7 +5,7 @@ $sLangName = "Deutsch";
 $aLang = [
     'charset'                                       => 'UTF-8',
 
-    'DEVUTIL_CLEARTMP_LABEL'                        => 'PHP-Cache leeren',
+    'DEVUTIL_CLEARTMP_LABEL'                        => 'tmp-Ordner leeren',
     'DEVUTIL_CLEARTPL_LABEL'                        => 'Smarty-Cache leeren',
 /*
  *  Not in Use, because function is not tested successful
