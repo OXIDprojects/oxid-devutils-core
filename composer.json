@@ -11,7 +11,7 @@
   ],
   "homepage": "https://github.com/OXIDprojects/oxid-devutils-core",
   "license": [
-    "GNU"
+    "GPL-3.0"
   ],
   "extra": {
     "oxideshop": {
