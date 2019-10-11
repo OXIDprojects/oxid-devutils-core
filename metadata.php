@@ -26,9 +26,9 @@ $aModule = [
         ]
     ],
     'templates'   => [
-        'dev_header.tpl'            => 'oxcom/devutils-core/views/admin/dev_header.tpl',
-        'dev_footer.tpl'            => 'oxcom/devutils-core/views/admin/dev_footer.tpl',
-        'dev_gui.tpl'               => 'oxcom/devutils-core/views/admin/dev_gui.tpl',
+        'dev_header.tpl'            => 'oxid-community/devutils-core/views/admin/dev_header.tpl',
+        'dev_footer.tpl'            => 'oxid-community/devutils-core/views/admin/dev_footer.tpl',
+        'dev_gui.tpl'               => 'oxid-community/devutils-core/views/admin/dev_gui.tpl',
     ],
 
 /*
